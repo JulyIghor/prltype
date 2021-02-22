@@ -24,8 +24,8 @@ Example:
 ```prltype Ubuntu 'Hello World' '<enter>'``` will type ```Hello World``` and press Enter to the virtual machine named Ubuntu.
 
 List of acceptable commands:
-Keyboard keys: <ALT>, <BACKSPACE>, <BS>, <CAPSLOCK>, <CTL>, <DEL>, <DELETE>, <DOWN>, <END>, <ENTER>, <ESC>, <F1>, <F10>, <F11>, <F12>, <F2>, <F3>, <F4>, <F5>, <F6>, <F7>, <F8>, <F9>, <HOME>, <INSERT>, <LALT>, <LCTRL>, <LEFT>, <LSHIFT>, <LWIN>, <NUMLOCK>, <PAUSE>, <PGDN>, <PGUP>, <POWER>, <PRTSCR>, <RALT>, <RCTRL>, <RIGHT>, <RSHIFT>, <RWIN>, <SCROLLLOCK>, <SHIFT>, <SLEEP>, <SPACE>, <TAB>, <UP>, <WAKE>, <WIN>, <LALT>, <LCTRL>, <LSHIFT>, <LWIN>
-Special command: <WAIT> - delay of 1 second
+Keyboard keys: ```<ALT>, <BACKSPACE>, <BS>, <CAPSLOCK>, <CTL>, <DEL>, <DELETE>, <DOWN>, <END>, <ENTER>, <ESC>, <F1>, <F10>, <F11>, <F12>, <F2>, <F3>, <F4>, <F5>, <F6>, <F7>, <F8>, <F9>, <HOME>, <INSERT>, <LALT>, <LCTRL>, <LEFT>, <LSHIFT>, <LWIN>, <NUMLOCK>, <PAUSE>, <PGDN>, <PGUP>, <POWER>, <PRTSCR>, <RALT>, <RCTRL>, <RIGHT>, <RSHIFT>, <RWIN>, <SCROLLLOCK>, <SHIFT>, <SLEEP>, <SPACE>, <TAB>, <UP>, <WAKE>, <WIN>, <LALT>, <LCTRL>, <LSHIFT>, <LWIN>```
+Special command: ```<WAIT>``` - delay of 1 second
 
 ## License
 
