@@ -31,7 +31,7 @@ Special command: ```<WAIT>``` - delay of 1 second
 
 This code is distributed under the GPL v3 license, see LICENSE.
 
-© 2021 July Ighor
+© 2022 July Ighor
 
 ---
 

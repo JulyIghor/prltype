@@ -1,6 +1,6 @@
-//  This file is part of Prl Type
+//  This file is a part of Prl Type
 //      https://github.com/JulyIghor/prltype
-//  Copyright (C) 2020-2021 July Ighor <julyighor@gmail.com>
+//  Copyright (C) 2020-2022 July Ighor <julyighor@gmail.com>
 //
 //  This program is free software: you can redistribute it and/or modify
 //  it under the terms of the GNU General Public License as published by

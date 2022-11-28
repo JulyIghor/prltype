@@ -1,6 +1,6 @@
-//  This file is part of Prl Type
+//  This file is a part of Prl Type
 //      https://github.com/JulyIghor/prltype
-//  Copyright (C) 2020-2021 July Ighor <julyighor@gmail.com>
+//  Copyright (C) 2020-2022 July Ighor <julyighor@gmail.com>
 //
 //  This program is free software: you can redistribute it and/or modify
 //  it under the terms of the GNU General Public License as published by
@@ -29,7 +29,7 @@ int main(int argc, char* argv[])
 {
     if (argc < 2)
     {
-        std::cout << "PrlType v1.0\thttps://github.com/JulyIghor/prltype\n\nUsage: " << argv[0] << " <VM Name> <text/command>" << std::endl;
+        std::cout << "PrlType v1.1\nhttps://github.com/JulyIghor/prltype\n\nUsage: " << argv[0] << " <VM Name> <text/command>" << std::endl;
         return -1;
     }
 
